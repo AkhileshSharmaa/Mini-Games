@@ -1,2 +1,2 @@
-🎯 A simple Python game where the player tries to guess a randomly generated number.
-A beginner-friendly project to practice loops, conditions, random numbers, and user input.
+🐍 A simple Snake Water Gun game made with Python, where the player competes against the computer.
+This project helps practice conditionals, random choices, user input, and basic game logic.
